@@ -7,11 +7,14 @@ The aim of the project is to categorize the toxic comments based on the types of
 
 Language and Libraries used:
 
-Numpy
-Pandas
-Matplotlib
-NLTK
-Seaborn
+
+    Python 3.7
+    Numpy
+    Pandas
+    Matplotlib
+    NLTK
+    Seaborn
+
 
 Dataset used can be downloaded from https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge
 
