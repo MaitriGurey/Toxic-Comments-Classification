@@ -28,4 +28,4 @@ Steps involved
 
 Results
 
-Predicted an accuracy score of 88.16% using Binary Relevance method with SVM classifier.
+Predicted an accuracy score of 88.1% using Binary Relevance method with SVM classifier.
