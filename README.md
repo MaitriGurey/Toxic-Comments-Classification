@@ -26,6 +26,3 @@ Steps involved
     Applying Multi Label classification algorithms.
     Comparing the results and choosing the best among them.
 
-Results
-
-Predicted an accuracy score of 88.1% using Binary Relevance method with SVM classifier.
